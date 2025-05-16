@@ -1,2 +1,2 @@
-### Worker do generate demo data
+### Worker to generate demo data
 A simple implementation for generating demo data.
